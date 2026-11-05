@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.Cortex" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#90E6FF</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#05060A</item>
+        <item name="android:navigationBarColor">#05060A</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+</resources>

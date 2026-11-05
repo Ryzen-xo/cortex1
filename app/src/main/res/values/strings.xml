@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cortex</string>
+    <string name="accessibility_description">Optional Cortex screen actions. Cortex must never interact with password, one-time-code, or banking fields.</string>
+</resources>
